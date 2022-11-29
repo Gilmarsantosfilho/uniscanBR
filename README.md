@@ -14,3 +14,36 @@ Essa  ferramenta contém materiais que podem ser potencialmente prejudiciais ou 
 Esta ferramenta é feita apenas para fins educacionais . Não tente violar a lei com qualquer coisa aqui contida. Se esta é sua intenção, então dê o fora daqui !
 
  Você não deve fazer uso indevido das informações para obter acesso não autorizado às  sites de alguém . No entanto, você pode tentar isso por sua conta e risco.
+
+
+# Linux
+
+```
+git clone https://github.com/Gilmarsantosfilho/uniscanBR
+```
+
+# Temux
+
+
+obs: Ve aqual comando que da certo no seu teminal
+
+```
+apt-get install perl
+```
+
+```
+pkg install perl
+```
+
+
+ Ajuda
+
+```
+perl uniscan.pl --help
+```
+
+# COMO ULTILZAR
+
+```
+perl uniscan.pl -u http://testphp.vulnweb.com/ -qweds
+```
