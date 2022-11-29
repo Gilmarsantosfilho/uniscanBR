@@ -16,10 +16,16 @@ Esta ferramenta é feita apenas para fins educacionais . Não tente violar a lei
  Você não deve fazer uso indevido das informações para obter acesso não autorizado às  sites de alguém . No entanto, você pode tentar isso por sua conta e risco.
 
 
-# Linux
+# Linux o```obs: O Kali Linux já vem com o perl instalado```
 
 ```
 git clone https://github.com/Gilmarsantosfilho/uniscanBR
+
+cd uniscanBR 
+```
+
+```
+perl uniscan.pl -u https://github.com/ -qweds
 ```
 
 # Temux
